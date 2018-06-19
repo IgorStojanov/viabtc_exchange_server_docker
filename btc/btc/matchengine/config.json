@@ -37,114 +37,46 @@
     },
     "assets": [
         {
-            "name": "USDT",
-            "prec_save": 20,
-            "prec_show": 8
-        }, {
-            "name": "BTC",
+            "name": "EURO",
             "prec_save": 12,
             "prec_show": 8
         }, {
-            "name": "LTC",
-            "prec_save": 12,
-            "prec_show": 8
-        }, {
-            "name": "ETH",
-            "prec_save": 12,
-            "prec_show": 8
-        }, {
-            "name": "ETC",
-            "prec_save": 12,
-            "prec_show": 8
-        }, {
-            "name": "ZEC",
-            "prec_save": 12,
-            "prec_show": 8
-        }, {
-            "name": "XMR",
-            "prec_save": 12,
-            "prec_show": 8
-        }, {
-            "name": "DSH",
+            "name": "TKICOIN",
             "prec_save": 12,
             "prec_show": 8
         }
     ],
     "markets": [
         {
-            "name": "BTCUSDT",
+            "name": "STANDARD",
             "stock": {
-                "name": "BTC",
+                "name": "TKICOIN",
                 "prec": 8
             },
             "money": {
-                "name": "USDT",
+                "name": "EURO",
                 "prec": 8
             },
             "min_amount": "0.001"
         }, {
-            "name": "LTCUSDT",
+            "name": "SOLAR",
             "stock": {
-                "name": "LTC",
+                "name": "TKICOIN",
                 "prec": 8
             },
             "money": {
-                "name": "USDT",
+                "name": "EURO",
                 "prec": 8
             },
             "min_amount": "0.001"
         }, {
-            "name": "ETHUSDT",
+            "name": "WIND",
             "stock": {
-                "name": "ETH",
+                "name": "TKICOIN",
                 "prec": 8
             },
             "money": {
-                "name": "USDT",
-                "prec": 8
-            },
-            "min_amount": "0.001"
-        }, {
-            "name": "ETCUSDT",
-            "stock": {
-                "name": "ETC",
-                "prec": 8
-            },
-            "money": {
-                "name": "USDT",
-                "prec": 8
-            },
-            "min_amount": "0.001"
-        }, {
-            "name": "ZECUSDT",
-            "stock": {
-                "name": "ZEC",
-                "prec": 8
-            },
-            "money": {
-                "name": "USDT",
-                "prec": 8
-            },
-            "min_amount": "0.001"
-        }, {
-            "name": "XMRUSDT",
-            "stock": {
-                "name": "XMR",
-                "prec": 8
-            },
-            "money": {
-                "name": "USDT",
-                "prec": 8
-            },
-            "min_amount": "0.001"
-        }, {
-            "name": "DSHUSDT",
-            "stock": {
-                "name": "DSH",
-                "prec": 8
-            },
-            "money": {
-                "name": "USDT",
+                "name": "EURO",
                 "prec": 8
             },
             "min_amount": "0.001"
